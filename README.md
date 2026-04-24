@@ -1,4 +1,11 @@
-# Khazix Skills
+# Khazix Skills（日本語ローカライズ版）
+
+> **このリポジトリについて**
+> これは [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills)（MIT License）の fork です。
+> `hv-analysis/` 配下（SKILL.md / scripts / references）を自然な日本語に全訳した **日本語ローカライズ版** を収録しています。
+> `khazix-writer/` と `prompts/` は原文（中国語）のままです。
+
+---
 
 数字生命卡兹克的 AI 工具箱。
 
@@ -19,7 +26,7 @@
 
 | Skill | 说明 | 讲解 |
 |-------|------|------|
-| [**hv-analysis**](./hv-analysis/) | 横纵分析法深度研究 Skill，自动联网收集信息，纵向追时间深度 + 横向追竞争广度，最终输出排版精美的 PDF 研究报告 | [公众号文章](https://mp.weixin.qq.com/s/Y_uRMYBmdLWUPnz_ac7jWA) |
+| [**hv-analysis**](./hv-analysis/) | 縦横分析法の深度研究 Skill（**日本語版**）。ネット経由で自動的に情報を収集し、縦軸で時間の深さ、横軸で競争の広がりを追い、最終的に装丁済みの PDF 研究レポートを出力する | [原著解説（中文）](https://mp.weixin.qq.com/s/Y_uRMYBmdLWUPnz_ac7jWA) |
 | [**khazix-writer**](./khazix-writer/) | 卡兹克公众号长文写作 Skill，包含完整的写作风格规则、四层自检体系、内容方法论和风格示例库 | [公众号文章](https://mp.weixin.qq.com/s/AtxGrii_K-nzkwUM9SNhEg) |
 
 ### Skill 安装方式
